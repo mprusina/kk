@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/complete_profile_button_incomplete_style" />
+    <item android:drawable="@drawable/complete_profile_button_completed_style" />
+</transition>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KillingK</string>
+    <string name="profile_name">ESSEXLAD</string>
+    <string name="profile_message">View and edit profile</string>
+    <string name="card_one_title">Get verified</string>
+    <string name="card_one_message">Become a trusted member of the kommunity and start interacting</string>
+    <string name="card_one_button_text">Verify now</string>
+    <string name="card_two_title">Complete your profile</string>
+    <string name="card_two_message">Take a few steps to show the kommunity who you really are</string>
+    <string name="complete_profile_incomplete_button">Let\'s get it done</string>
+    <string name="complete_profile_complete_button">Success!</string>
+    <string name="card_three_title">Events \n&amp; E-Tickets</string>
+    <string name="card_three_message">Buy and access your party and workshop tickets</string>
+    <string name="account_settings_title">Account Settings</string>
+    <string name="logout_title">Logout</string>
+    <string name="toast_profile_completed">Profile already completed</string>
+    <string name="toast_network_error">Error. No network connection. Please try again</string>
+    <string name="toggle_menu_button">Toggle Menu</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">?android:attr/listDivider</item>
+    </style>
+
+    <style name="toolbar_title_text_appearance">
+        <item name="fontFamily">@font/bebas_neue_regular</item>
+        <item name="android:textSize">19sp</item>
+        <item name="android:textFontWeight">400</item>
+        <item name="android:lineSpacingExtra">1sp</item>
+        <item name="android:lineHeight">24dp</item>
+    </style>
+
+    <style name="toolbar_subtitle_text_appearance">
+        <item name="fontFamily">@font/lato_regular</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textFontWeight">500</item>
+        <item name="android:lineSpacingExtra">1sp</item>
+        <item name="android:lineHeight">24dp</item>
+    </style>
+</resources>

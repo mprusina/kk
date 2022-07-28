@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="kk_red">#FF3030</color>
+    <color name="kk_green">#81E434</color>
+    <color name="kk_title">#1C3047</color>
+    <color name="kk_main_text">#171C22</color>
+    <color name="kk_card_layout_background">#E5E5E5</color>
+    <color name="kk_badge">#F20000</color>
+    <color name="kk_toggle_menu">#00D1FF</color>
+    <color name="menu_close_button">#99000000</color>
+</resources>
